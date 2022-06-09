@@ -7,4 +7,5 @@ EditorBuildSettings:
   m_Scenes: []
   m_configObjects:
     Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 1a2ca203bf9fae543a23fba8606248d4, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: bdaaa2191ffc0444580b2961a5bb56b6, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 485f0e469222bfc489efa5a2ea66680f, type: 2}
